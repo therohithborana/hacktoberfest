@@ -1,3 +1,8 @@
+#### Name: [ROHITH BORANA](GitHub link)
+- Place:Mysore,India
+- Bio: 1st year AIML student
+- GitHub: [therohithborana](https://github.com/therohithborana)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
