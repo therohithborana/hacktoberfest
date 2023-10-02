@@ -1,4 +1,4 @@
-#### Name: [ROHITH BORANA](GitHub link)
+#### Name: [ROHITH BORANA](https://github.com/therohithborana)
 - Place:Mysore,India
 - Bio: 1st year AIML student
 - GitHub: [therohithborana](https://github.com/therohithborana)
